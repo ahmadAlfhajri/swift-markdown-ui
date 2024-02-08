@@ -43,7 +43,7 @@ let package = Package(
       name: "MarkdownUI",
       dependencies: [
         .product(name: "CommonMark", package: "SwiftCommonMark"),
-        "AttributedText",
+        "AttributedText-Gonzalezreal",
         "NetworkImage",
         .product(name: "CombineSchedulers", package: "combine-schedulers"),
       ]
