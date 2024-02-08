@@ -22,7 +22,7 @@ let package = Package(
       from: "1.0.0"
     ),
     .package(
-      name: "AttributedText",
+      name: "AttributedText-Gonzalezreal",
       url: "https://github.com/gonzalezreal/AttributedText",
       from: "1.0.0"
     ),
